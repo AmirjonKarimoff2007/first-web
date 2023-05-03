@@ -1,3 +1,2 @@
 # first-web
-yangi site
-aaa
+bu bizning portfolio web saytimiz
